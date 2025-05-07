@@ -1,22 +1,22 @@
 {
-  "name": "Kyami Silence Api",
+  "name": "Always Cikaa Api",
   "version": "v3.0.0",
   "description": "Simple and easy to use API for WhatsApp Bot feature.",
   "header": {
     "status": "Active!"
   },
   "apiSettings": {
-    "creator": "Kyami Silence", 
+    "creator": "Always Cikaa", 
     "apikey": ["new2025"]
   },
   "links": [
     {
       "name": "Source Code",
-      "url": "https://github.com/rynxzyy/Rynn-UI"
+      "url": "https://whatsapp.com/channel/0029Vb3RCvBAInPfslx9vt45"
     },
     {
       "name": "Contact Me",
-      "url": "https://whatsapp.com/channel/0029Vb1KZGfD38COhcA6MQ3u"
+      "url": "https://wa.me/60109567031"
     }
   ],
   "categories": [
@@ -42,13 +42,13 @@
           "name": "Create Payment",
           "desc": "Create qris payment", 
           "path": "/orderkuota/createpayment?apikey=&amount=&codeqr=", 
-          "innerDesc": "Buy apikey >> wa.me/628386890336"
+          "innerDesc": "Buy Vps >> wa.me/60109567031"
         },
         {
           "name": "Cek Status",
           "desc": "Cek status payment", 
           "path": "/orderkuota/cekstatus?apikey=&merchant=&keyorkut=", 
-          "innerDesc": "Buy apikey >> wa.me/628386890336"          
+          "innerDesc": "Buy Vps >> wa.me/60109567031"          
         }
       ]
     },    
